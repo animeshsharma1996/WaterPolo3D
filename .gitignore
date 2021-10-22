@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+*.nc
+*.DS_store
+
 # Compiled Object files
 *.slo
 *.lo
