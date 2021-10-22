@@ -5566,3 +5566,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-08.48.51:488][383]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
 [2021.10.22-08.48.51:575][388]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
 [2021.10.22-08.48.51:834][403]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.10.22-08.57.12:593][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Locker4)
+[2021.10.22-08.57.25:204][139]Cmd: DELETE
+[2021.10.22-08.57.25:204][139]Cmd: ACTOR DELETE
+[2021.10.22-08.57.25:218][139]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.22-08.57.25:219][139]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.22-08.57.25:219][139]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.22-08.57.25:219][139]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.22-08.57.25:219][139]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.22-08.57.25:220][139]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.22-08.57.25:226][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.10.22-08.57.25:238][139]LogEditorActor: Deleted 6 Actors (0.033 secs)
+[2021.10.22-08.57.28:043][307]Cmd: TRANSACTION UNDO
+[2021.10.22-08.57.28:043][307]LogEditorTransaction: Undo Delete Actors
+[2021.10.22-08.57.30:438][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.10.22-08.57.30:644][436]LogSavePackage: Moving '../../../../../../Projects/Unreal Engine/Water Polo 3D/WaterPolo3D/WaterPolo/WaterPolo/Saved/MainPool3AFAF6534D60B30BDAA72C9974BEEEDA.tmp' to '../../../../../../Projects/Unreal Engine/Water Polo 3D/WaterPolo3D/WaterPolo/WaterPolo/Content/SwimmingPool/Maps/MainPool.umap'
+[2021.10.22-08.57.32:726][436]LogSavePackage: Moving '../../../../../../Projects/Unreal Engine/Water Polo 3D/WaterPolo3D/WaterPolo/WaterPolo/Saved/MainPool_BuiltData2749987243022F2A2ED0A9B166E976E4.tmp' to '../../../../../../Projects/Unreal Engine/Water Polo 3D/WaterPolo3D/WaterPolo/WaterPolo/Content/SwimmingPool/Maps/MainPool_BuiltData.uasset'
+[2021.10.22-08.57.32:767][436]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-08.57.32:767][436]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SwimmingPool/Maps/MainPool_BuiltData.MainPool_BuiltData
+[2021.10.22-08.57.32:767][436]LogContentValidation: Display: Validating World /Game/SwimmingPool/Maps/MainPool.MainPool
+[2021.10.22-10.37.02:951][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Hanger)
+[2021.10.22-10.37.05:902][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DepthMarkers_NoDiving5)
+[2021.10.22-10.37.26:255][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-10.37.26:266][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-10.37.26:267][ 64]PIE: New page: PIE session: MainPool (22 Oct 2021, 12:37:26)
+[2021.10.22-10.37.26:273][ 64]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.22-10.37.26:283][ 64]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.22-10.37.26:284][ 64]LogPlayLevel: Creating play world package: /Game/SwimmingPool/Maps/UEDPIE_0_MainPool
+[2021.10.22-10.37.26:354][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070150s)
+[2021.10.22-10.37.26:356][ 64]LogAIModule: Creating AISystem for world MainPool
+[2021.10.22-10.37.26:358][ 64]LogPlayLevel: PIE: World Init took: (0.003941s)
+[2021.10.22-10.37.26:359][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SwimmingPool/Maps/MainPool.MainPool to /Game/SwimmingPool/Maps/UEDPIE_0_MainPool.MainPool (0.075363s)
+[2021.10.22-10.37.26:369][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.10.22-10.37.26:378][ 64]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.22-10.37.26:378][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-10.37.26:378][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-10.37.26:378][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-10.37.26:378][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-10.37.26:378][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-10.37.26:378][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-10.37.26:378][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-10.37.26:378][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-10.37.26:378][ 64]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-10.37.26:378][ 64]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-10.37.26:420][ 64]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-10.37.26:421][ 64]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-10.37.26:457][ 64]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.22-10.37.26:462][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-10.37.26:462][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-10.37.26:462][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-10.37.26:463][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-10.37.26:463][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-10.37.26:463][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-10.37.26:472][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-10.37.26:472][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-10.37.26:472][ 64]LogInit: FAudioDevice initialized.
+[2021.10.22-10.37.26:472][ 64]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainPool'.
+[2021.10.22-10.37.26:489][ 64]LogLoad: Game class is 'GameModeBase'
+[2021.10.22-10.37.26:515][ 64]LogWorld: Bringing World /Game/SwimmingPool/Maps/UEDPIE_0_MainPool.MainPool up for play (max tick rate 60) at 2021.10.22-11.37.26
+[2021.10.22-10.37.26:517][ 64]LogWorld: Bringing up level for play took: 0.019657
+[2021.10.22-10.37.26:517][ 64]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.10.22-10.37.26:575][ 64]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2021.10.22-10.37.26:582][ 64]PIE: Server logged in
+[2021.10.22-10.37.26:588][ 64]PIE: Play in editor total start time 0.325 seconds.
+[2021.10.22-10.37.29:465][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-10.37.29:465][223]LogWorld: BeginTearingDown for /Game/SwimmingPool/Maps/UEDPIE_0_MainPool
+[2021.10.22-10.37.29:467][223]LogWorld: UWorld::CleanupWorld for MainPool, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-10.37.29:470][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-10.37.29:481][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-10.37.29:499][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-10.37.29:506][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-10.37.29:511][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-10.37.29:512][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-10.37.29:529][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-10.37.29:539][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.22-10.37.29:565][224]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.10.22-10.37.32:959][426]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
