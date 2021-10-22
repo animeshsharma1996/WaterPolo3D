@@ -72,3 +72,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+WaterPolo/WaterPolo/Saved/Autosaves/PackageRestoreData.json
+
+WaterPolo/WaterPolo/Saved/AutoScreenshot.png
+
+WaterPolo/WaterPolo/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+
+WaterPolo/WaterPolo/Saved/Config/Windows/Engine.ini
+
+WaterPolo/WaterPolo/Saved/Config/Windows/UnrealInsightsSettings.ini
+
+WaterPolo/WaterPolo/Saved/Logs/WaterPolo.log

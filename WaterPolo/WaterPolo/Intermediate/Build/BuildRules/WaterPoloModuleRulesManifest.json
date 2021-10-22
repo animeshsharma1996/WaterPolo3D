@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Projects\\Unreal Engine\\Water Polo 3D\\WaterPolo3D\\WaterPolo\\WaterPolo\\Source\\WaterPolo\\WaterPolo.Build.cs",
+		"E:\\Projects\\Unreal Engine\\Water Polo 3D\\WaterPolo3D\\WaterPolo\\WaterPolo\\Source\\WaterPolo.Target.cs",
+		"E:\\Projects\\Unreal Engine\\Water Polo 3D\\WaterPolo3D\\WaterPolo\\WaterPolo\\Source\\WaterPoloEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
