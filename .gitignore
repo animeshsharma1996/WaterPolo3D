@@ -89,3 +89,25 @@ WaterPolo/WaterPolo/Saved/Config/Windows/UnrealInsightsSettings.ini
 WaterPolo/WaterPolo/Saved/Logs/WaterPolo.log
 
 WaterPolo/WaterPolo/Saved/Logs/WaterPolo_2.log
+
+*.pdb
+
+WaterPolo/WaterPolo/Intermediate/CachedAssetRegistry.bin
+
+WaterPolo/WaterPolo/Saved/Logs/WaterPolo-backup-2021.11.03-23.51.06.log
+
+WaterPolo/WaterPolo/Saved/Logs/WaterPolo-backup-2021.11.03-23.52.28.log
+
+*.ini
+
+WaterPolo/WaterPolo/Binaries/Win64/UE4Editor.modules
+
+WaterPolo/WaterPolo/Intermediate/Build/Win64/ActionHistory.bin
+
+WaterPolo/WaterPolo/Intermediate/Build/Win64/UE4Editor/Development/WaterPolo/UE4Editor-WaterPolo.exp
+
+WaterPolo/WaterPolo/Intermediate/Build/Win64/UE4Editor/Development/WaterPolo/UE4Editor-WaterPolo.suppressed.exp
+
+WaterPolo/WaterPolo/Intermediate/Build/Win64/WaterPoloEditor/Development/DependencyCache.bin
+
+WaterPolo/WaterPolo/Intermediate/Build/Win64/WaterPoloEditor/Development/HotReload.state
