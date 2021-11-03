@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\WaterPolo.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{4354FBDC-E1C7-4F84-A9F3-7DFE75AA7AD2}</UniqueIdentifier>
+      <UniqueIdentifier>{D07AFEA8-FAD3-44DB-9AF6-CCE1EDD2B843}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\WaterPolo.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\WaterPoloEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\WaterPolo.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{F12C5992-0FA4-47AF-B6C7-1C7311E01E7A}</UniqueIdentifier>
+      <UniqueIdentifier>{ECD98887-E894-4800-9E1D-114449807E97}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +25,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\WaterPolo">
-      <UniqueIdentifier>{A6661E47-0AEB-471A-B1CD-8B7F6B6C1770}</UniqueIdentifier>
+      <UniqueIdentifier>{59C571FB-525C-4CD6-8C6F-A265D3C16A4A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\WaterPolo\WaterPolo.Build.cs">
       <Filter>Source\WaterPolo</Filter>
@@ -40,6 +41,21 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\WaterPolo\WaterPoloGameModeBase.h">
       <Filter>Source\WaterPolo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WaterPolo\WaterPoloPlayerController.cpp">
+      <Filter>Source\WaterPolo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WaterPolo\WaterPoloPlayerController.h">
+      <Filter>Source\WaterPolo</Filter>
+    </ClInclude>
+    <Filter Include="Source\WaterPolo\MainMenu">
+      <UniqueIdentifier>{C18DB338-C7A4-4AC1-8B10-9B90E44AECFE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WaterPolo\MainMenu\MainMenuHUD.cpp">
+      <Filter>Source\WaterPolo\MainMenu</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WaterPolo\MainMenu\MainMenuHUD.h">
+      <Filter>Source\WaterPolo\MainMenu</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

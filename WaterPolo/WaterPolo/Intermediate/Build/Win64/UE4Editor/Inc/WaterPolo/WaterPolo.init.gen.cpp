@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeWaterPolo_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xE4B6BF2B,
-				0x369C9E9D,
+				0x70300574,
+				0x7267FF42,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
