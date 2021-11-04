@@ -69,7 +69,9 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMainMenuWidget); \
 
 
 #define WaterPolo_Source_WaterPolo_MainMenu_MainMenuWidget_h_15_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__playButton() { return STRUCT_OFFSET(UMainMenuWidget, playButton); }
+	FORCEINLINE static uint32 __PPO__playButton() { return STRUCT_OFFSET(UMainMenuWidget, playButton); } \
+	FORCEINLINE static uint32 __PPO__settingsButton() { return STRUCT_OFFSET(UMainMenuWidget, settingsButton); } \
+	FORCEINLINE static uint32 __PPO__exitButton() { return STRUCT_OFFSET(UMainMenuWidget, exitButton); }
 
 
 #define WaterPolo_Source_WaterPolo_MainMenu_MainMenuWidget_h_12_PROLOG

@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeWaterPolo_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x0786552F,
+				0x9BA051C9,
 				0xD3FCEB70,
 				METADATA_PARAMS(nullptr, 0)
 			};

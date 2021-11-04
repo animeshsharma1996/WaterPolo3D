@@ -1,8 +1,0 @@
-E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\Definitions.WaterPolo.h
-E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Source\WaterPolo\MainMenu\MainMenuHUD.h
-E:\Unreal Engine\UE 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
-E:\Unreal Engine\UE 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
-E:\Unreal Engine\UE 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
-E:\Unreal Engine\UE 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
-E:\Unreal Engine\UE 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Inc\WaterPolo\MainMenuHUD.generated.h

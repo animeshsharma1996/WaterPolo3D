@@ -17,7 +17,9 @@ class WATERPOLO_API UMainMenuWidget : public UUserWidget
 
 	UPROPERTY(meta = (BindWidget))
 		class UButton* playButton;
+	UPROPERTY(meta = (BindWidget))
 		class UButton* settingsButton;
+	UPROPERTY(meta = (BindWidget))
 		class UButton* exitButton;
 
 	UFUNCTION()

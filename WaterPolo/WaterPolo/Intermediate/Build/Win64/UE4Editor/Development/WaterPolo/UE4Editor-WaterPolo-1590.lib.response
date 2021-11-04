@@ -3,16 +3,18 @@
 /MACHINE:x64
 /SUBSYSTEM:WINDOWS
 /DEF
-/NAME:"UE4Editor-WaterPolo-2040.dll"
+/NAME:"UE4Editor-WaterPolo-1590.dll"
 /IGNORE:4221
 /NODEFAULTLIB
 "E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\WaterPoloEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\MainMenuHUD.cpp.obj"
+"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\MainMenuWidget.cpp.obj"
 "E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\WaterPolo.cpp.obj"
 "E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\WaterPoloGameModeBase.cpp.obj"
-"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\MainMenuHUD.gen.cpp.obj"
+"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\WaterPoloPlayerController.cpp.obj"
+"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\MainMenuWidget.gen.cpp.obj"
 "E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\WaterPolo.init.gen.cpp.obj"
 "E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\WaterPoloGameModeBase.gen.cpp.obj"
+"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\WaterPoloPlayerController.gen.cpp.obj"
 "E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\Default.rc2.res"
-/OUT:"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\UE4Editor-WaterPolo-2040.lib"
+/OUT:"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\UE4Editor-WaterPolo-1590.lib"
 /INCLUDE:IMPLEMENT_MODULE_WaterPolo
