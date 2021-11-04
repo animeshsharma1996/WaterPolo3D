@@ -13,5 +13,6 @@ UCLASS()
 class WATERPOLO_API AWaterPoloPlayerController : public APlayerController
 {
 	GENERATED_BODY()
-	
+	public:
+		virtual void BeginPlay() override;
 };

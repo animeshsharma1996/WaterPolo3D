@@ -8,14 +8,23 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UUserWidget;
 #ifdef WATERPOLO_WaterPoloGameModeBase_generated_h
 #error "WaterPoloGameModeBase.generated.h already included, missing '#pragma once' in WaterPoloGameModeBase.h"
 #endif
 #define WATERPOLO_WaterPoloGameModeBase_generated_h
 
 #define WaterPolo_Source_WaterPolo_WaterPoloGameModeBase_h_15_SPARSE_DATA
-#define WaterPolo_Source_WaterPolo_WaterPoloGameModeBase_h_15_RPC_WRAPPERS
-#define WaterPolo_Source_WaterPolo_WaterPoloGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define WaterPolo_Source_WaterPolo_WaterPoloGameModeBase_h_15_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execChangeMenuWidget);
+
+
+#define WaterPolo_Source_WaterPolo_WaterPoloGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execChangeMenuWidget);
+
+
 #define WaterPolo_Source_WaterPolo_WaterPoloGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAWaterPoloGameModeBase(); \
@@ -60,7 +69,11 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AWaterPoloGameModeBase); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AWaterPoloGameModeBase)
 
 
-#define WaterPolo_Source_WaterPolo_WaterPoloGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
+#define WaterPolo_Source_WaterPolo_WaterPoloGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__startingWidgetClass() { return STRUCT_OFFSET(AWaterPoloGameModeBase, startingWidgetClass); } \
+	FORCEINLINE static uint32 __PPO__currentWidget() { return STRUCT_OFFSET(AWaterPoloGameModeBase, currentWidget); }
+
+
 #define WaterPolo_Source_WaterPolo_WaterPoloGameModeBase_h_12_PROLOG
 #define WaterPolo_Source_WaterPolo_WaterPoloGameModeBase_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

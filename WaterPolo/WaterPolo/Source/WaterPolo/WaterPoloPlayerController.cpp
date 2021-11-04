@@ -3,3 +3,8 @@
 
 #include "WaterPoloPlayerController.h"
 
+void AWaterPoloPlayerController::BeginPlay()
+{
+    Super::BeginPlay();
+    SetInputMode(FInputModeGameAndUI());
+}
