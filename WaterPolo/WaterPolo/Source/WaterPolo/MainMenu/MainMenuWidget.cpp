@@ -3,6 +3,7 @@
 
 #include "MainMenuWidget.h"
 #include "Components/Button.h"
+#include "Kismet/KismetSystemLibrary.h"
 
 bool UMainMenuWidget::Initialize()
 {
@@ -17,7 +18,7 @@ bool UMainMenuWidget::Initialize()
 
 void UMainMenuWidget::PlayButtonClicked()
 {
-	UE_LOG(LogTemp, Warning, TEXT("Our button is working!"));
+	this->RemoveFromViewport();
 }
 
 void UMainMenuWidget::SettingsButtonClicked()
@@ -27,5 +28,6 @@ void UMainMenuWidget::SettingsButtonClicked()
 
 void UMainMenuWidget::ExitButtonClicked()
 {
-	UE_LOG(LogTemp, Warning, TEXT("Our button is working!"));
+	APlayerController* SpecificPlayer = GetWorld()->GetFirstPlayerController();
+	UKismetSystemLibrary::QuitGame(GetWorld(), SpecificPlayer, EQuitPreference::Quit, true);
 }

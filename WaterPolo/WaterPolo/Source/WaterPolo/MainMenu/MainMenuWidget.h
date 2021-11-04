@@ -24,6 +24,8 @@ class WATERPOLO_API UMainMenuWidget : public UUserWidget
 
 	UFUNCTION()
 		void PlayButtonClicked();
+	UFUNCTION()
 		void SettingsButtonClicked();
+	UFUNCTION()
 		void ExitButtonClicked();
 };
