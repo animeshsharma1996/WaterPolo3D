@@ -74,8 +74,8 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Binaries\Win64\UE4Editor-WaterPolo.dll"
-/IMPLIB:"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\UE4Editor-WaterPolo.suppressed.lib"
-/PDB:"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Binaries\Win64\UE4Editor-WaterPolo.pdb"
+/OUT:"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Binaries\Win64\UE4Editor-WaterPolo-7125.dll"
+/IMPLIB:"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\UE4Editor-WaterPolo-7125.suppressed.lib"
+/PDB:"E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Binaries\Win64\UE4Editor-WaterPolo-7125.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_WaterPolo

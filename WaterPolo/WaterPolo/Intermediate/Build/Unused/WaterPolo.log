@@ -1,25 +1,10 @@
-﻿  Cleaning WaterPoloEditor and UnrealHeaderTool binaries...
-  Creating makefile for WaterPoloEditor (no existing makefile)
-  Parsing headers for WaterPoloEditor
-    Running UnrealHeaderTool "E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\WaterPolo.uproject" "E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\WaterPoloEditor\Development\WaterPoloEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\anime\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for WaterPoloEditor in 3.3901308 seconds
-  Building WaterPoloEditor...
+﻿  Building WaterPoloEditor...
   Using Visual Studio 2019 14.26.28806 toolchain (C:\VisualStudio\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 13 actions with 12 processes...
-    [1/13] Default.rc2
-    [2/13] SharedPCH.Engine.ShadowErrors.cpp
-    [3/13] WaterPolo.cpp
-    [4/13] WaterPoloPlayerController.cpp
-    [5/13] WaterPolo.init.gen.cpp
-    [6/13] WaterPoloGameModeBase.cpp
-    [7/13] WaterPoloPlayerController.gen.cpp
-    [8/13] WaterPoloGameModeBase.gen.cpp
-    [9/13] MainMenuWidget.gen.cpp
-    [10/13] MainMenuWidget.cpp
-    [11/13] UE4Editor-WaterPolo.lib
+  Building 3 actions with 12 processes...
+    [1/3] UE4Editor-WaterPolo.lib
        Creating library E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\UE4Editor-WaterPolo.lib and object E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\UE4Editor-WaterPolo.exp
-    [12/13] UE4Editor-WaterPolo.dll
+    [2/3] UE4Editor-WaterPolo.dll
        Creating library E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\UE4Editor-WaterPolo.suppressed.lib and object E:\Projects\Unreal Engine\Water Polo 3D\WaterPolo3D\WaterPolo\WaterPolo\Intermediate\Build\Win64\UE4Editor\Development\WaterPolo\UE4Editor-WaterPolo.suppressed.exp
-    [13/13] WaterPoloEditor.target
-  Total time in Parallel executor: 30.62 seconds
-  Total execution time: 44.21 seconds
+    [3/3] WaterPoloEditor.target
+  Total time in Parallel executor: 0.91 seconds
+  Total execution time: 1.46 seconds
