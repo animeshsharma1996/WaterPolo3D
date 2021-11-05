@@ -113,3 +113,5 @@ WaterPolo/WaterPolo/Intermediate/Build/Win64/WaterPoloEditor/Development/Depende
 WaterPolo/WaterPolo/Intermediate/Build/Win64/WaterPoloEditor/Development/HotReload.state
 
 WaterPolo/WaterPolo/Intermediate/Build/
+
+*.log
