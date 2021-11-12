@@ -115,3 +115,7 @@ WaterPolo/WaterPolo/Intermediate/Build/Win64/WaterPoloEditor/Development/HotRelo
 WaterPolo/WaterPolo/Intermediate/Build/
 
 *.log
+
+WaterPolo/WaterPolo/Intermediate/AssetRegistryCache/
+
+*.bin
