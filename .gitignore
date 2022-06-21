@@ -76,46 +76,16 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-WaterPolo/WaterPolo/Saved/Autosaves/PackageRestoreData.json
-
-WaterPolo/WaterPolo/Saved/AutoScreenshot.png
-
-WaterPolo/WaterPolo/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-
-WaterPolo/WaterPolo/Saved/Config/Windows/Engine.ini
-
-WaterPolo/WaterPolo/Saved/Config/Windows/UnrealInsightsSettings.ini
-
-WaterPolo/WaterPolo/Saved/Logs/WaterPolo.log
-
-WaterPolo/WaterPolo/Saved/Logs/WaterPolo_2.log
-
 *.pdb
 
-WaterPolo/WaterPolo/Intermediate/CachedAssetRegistry.bin
-
-WaterPolo/WaterPolo/Saved/Logs/WaterPolo-backup-2021.11.03-23.51.06.log
-
-WaterPolo/WaterPolo/Saved/Logs/WaterPolo-backup-2021.11.03-23.52.28.log
+WaterPolo/WaterPolo/Saved/
 
 *.ini
 
-WaterPolo/WaterPolo/Binaries/Win64/UE4Editor.modules
+WaterPolo/WaterPolo/Binaries/
 
-WaterPolo/WaterPolo/Intermediate/Build/Win64/ActionHistory.bin
-
-WaterPolo/WaterPolo/Intermediate/Build/Win64/UE4Editor/Development/WaterPolo/UE4Editor-WaterPolo.exp
-
-WaterPolo/WaterPolo/Intermediate/Build/Win64/UE4Editor/Development/WaterPolo/UE4Editor-WaterPolo.suppressed.exp
-
-WaterPolo/WaterPolo/Intermediate/Build/Win64/WaterPoloEditor/Development/DependencyCache.bin
-
-WaterPolo/WaterPolo/Intermediate/Build/Win64/WaterPoloEditor/Development/HotReload.state
-
-WaterPolo/WaterPolo/Intermediate/Build/
+WaterPolo/WaterPolo/Intermediate/
 
 *.log
-
-WaterPolo/WaterPolo/Intermediate/AssetRegistryCache/
 
 *.bin
