@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "WaterPolo",
-			"Path": "E:\\Projects\\Unreal Engine\\Water Polo 3D\\WaterPolo3D\\WaterPolo\\WaterPolo\\Source\\WaterPolo.Target.cs",
+			"Path": "C:\\Peff's Folder\\RA\\PS5 UE5\\Unreal Engine Projects\\WaterPolo3D\\WaterPolo\\WaterPolo\\Source\\WaterPolo.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "WaterPoloEditor",
-			"Path": "E:\\Projects\\Unreal Engine\\Water Polo 3D\\WaterPolo3D\\WaterPolo\\WaterPolo\\Source\\WaterPoloEditor.Target.cs",
+			"Path": "C:\\Peff's Folder\\RA\\PS5 UE5\\Unreal Engine Projects\\WaterPolo3D\\WaterPolo\\WaterPolo\\Source\\WaterPoloEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
