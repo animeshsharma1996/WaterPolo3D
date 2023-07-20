@@ -17,7 +17,7 @@
 	"Plugins": [
 		{
 			"Name": "ReplicaLink",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/319ae183aabb405c8eb1011c130c10e9"
 		}
 	]
